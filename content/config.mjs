@@ -4,7 +4,7 @@ const config = {
     author: "Jonathan Nye",
     authorLogo: "/images/profile.jpeg",
     logo: "/images/uncommon-sense.png",
-    domain: "https://denyed.xyz/",
+    domain: "https://denyed.xyz",
     defaultAuthor: "Jonathan Nye",
     // links to the pages you want to link to in the navbar and in the footer
     navbarTitle: {
