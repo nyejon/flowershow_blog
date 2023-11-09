@@ -13,7 +13,8 @@ const config = {
     },
     navLinks: [
         { href: "/about", name: "About" },
-        { href: "/blog", name: "Blog" }
+        { href: "/blog", name: "Blog" },
+        { href: "/_all", name: "All" },
     ],
     // social: [
     //     { label: "github", href: "https://github.com/nyejon" },
