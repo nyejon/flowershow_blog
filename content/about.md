@@ -1,12 +1,13 @@
 ---
 aliases: 
-created: 2023-08-17
-modified: 2023-11-10
+created: 2023.08.17.Thu
+modified: 2023.11.10.Fri
 tags:
   - blog
   - personal
-title: about
+title: About
 ---
+# About
 
 Hi, I'm Jonathan! This blog is new, and I will publish articles about my interests and various things I've been working on. From time to time, I might share some notes on a topic, tutorials, or thoughts that have been on my mind.
 
