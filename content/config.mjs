@@ -2,24 +2,23 @@ const config = {
     title: "Uncommon sense",
     description: "My simplified view of the world",
     author: "Jonathan Nye",
-    authorLogo: "/images/profile.jpeg",
     logo: "/images/uncommon-sense.png",
     domain: "https://denyed.xyz",
     defaultAuthor: "Jonathan Nye",
     // links to the pages you want to link to in the navbar and in the footer
     navbarTitle: {
         text: "Uncommon sense",
-        logo: "/images/uncommon-sense.png", // optional
+        logo: "/images/uncommon-sense.svg", // optional
     },
     navLinks: [
         { href: "/about", name: "About" },
         { href: "/blog", name: "Blog" },
         { href: "/_all", name: "All" },
     ],
-    // social: [
-    //     { label: "github", href: "https://github.com/nyejon" },
-    //     { label: "twitter", href: "https://twitter.com/nyejon" },
-    // ],
+    social: [
+        { label: "github", href: "https://github.com/nyejon/flowershow_blog" },
+        // { label: "x", href: "https://x.com/nyejon" },
+    ],
     showEditLink: false,
     showToc: true,
     showSidebar: false,
@@ -29,18 +28,18 @@ const config = {
         titleTemplate: "%s | Uncommon sense",
         description: "My simplified view of the world",
         canonical: "https://denyed.xyz",
-        // openGraph: {
-        //   title: "Uncommon sense",
-        //   images: [
-        //     {
-        //       url: "https://flowershow.app/assets/images/frontpage-screenshot.jpg",
-        //       alt: "Flowershow",
-        //       width: 1200,
-        //       height: 627,
-        //       type: "image/jpg",
-        //     },
-        //   ],
-        // },
+        openGraph: {
+          title: "Uncommon sense",
+          images: [
+            {
+              url: "https://denyed.xyz/images/uncommon-sense.png",
+              alt: "Uncommon Sense | Jonathan Nye",
+              width: 1200,
+              height: 627,
+              type: "image/png",
+            },
+          ],
+        },
         twitter: {
           handle: "@nyejon",
           site: "https://denyed.xyz",
