@@ -1,15 +1,15 @@
 ---
-aliases: 
+aliases:
 authors:
   - Jonathan Nye
 created: 2023-01-11
 description: Leaders come in different forms and have many developed traits. This post discusses some of the different leadership styles and a self reflection of which style represents me best.
-images: 
+images:
 isDraft: false
 modified: 2023-11-10
 tags:
   - leadership
-title: types-of-leaders
+title: Types of Leaders
 ---
 
 Leaders come in many forms and have different beliefs, values, and cultures. This post breaks down some of the high-level differences among leaders and highlights what one should be aware of in a leadership role. It is based on the Coursera course: [https://www.coursera.org/learn/leadership-collaboration](https://www.coursera.org/learn/leadership-collaboration 'https://www.coursera.org/learn/leadership-collaboration')

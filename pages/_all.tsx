@@ -50,10 +50,16 @@ export const getStaticProps: GetStaticProps = async (): Promise<
 > => {
     const mddb = await clientPromise;
     const allPages = await mddb.getFiles({ extensions: ["md", "mdx"] });
-    const allPagesList = allPages
+    const pages = allPages.filter((page) => !page.metadata?.isDraft); // Remove the draft pages
+    const allPagesList = pages
         .filter((page) => page.url_path !== "/") // exclude homepage
         .map((page) => {
             const urlPath = page.url_path;
+            // use metadata.title if it exists
+            if (page.metadata.title) {
+                return { urlPath, displayName: page.metadata.title };
+            }
+
             const displayName = urlPath
                 .split("/")
                 .pop()

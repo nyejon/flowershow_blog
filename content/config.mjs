@@ -8,7 +8,7 @@ const config = {
     // links to the pages you want to link to in the navbar and in the footer
     navbarTitle: {
         text: "Uncommon sense",
-        logo: "/images/uncommon-sense.svg", // optional
+        logo: "/images/uncommon-sense.png", // optional
     },
     navLinks: [
         { href: "/about", name: "About" },
