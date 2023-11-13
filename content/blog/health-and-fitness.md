@@ -3,6 +3,7 @@ aliases:
 authors:
   - Jonathan Nye
 created: 2023-01-11
+date: 2021-11-30
 description: My 80/20 approach to balancing health and fitness with the rest of life's demands.
 images: 
 isDraft: false
