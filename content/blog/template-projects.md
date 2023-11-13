@@ -3,6 +3,7 @@ aliases:
 authors:
   - Jonathan Nye
 created: 2023-01-11
+date: 2021-12-11
 description: Template repositories are one of my favourite ways to speed up and standardize your development workflow. They help both individual and team workflows.
 image: 
 isDraft: false
