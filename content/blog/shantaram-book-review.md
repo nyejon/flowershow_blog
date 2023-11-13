@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 authors:
   - Jonathan Nye
 created: 2023-01-11
@@ -13,7 +13,6 @@ tags:
   - fiction
   - books
 title: Shantaram book review
-date: 2021-11-09
 ---
 
 ![[shantaram-book.jpg]]
