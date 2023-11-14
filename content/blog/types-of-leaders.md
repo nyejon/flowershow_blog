@@ -1,11 +1,10 @@
 ---
-aliases:
+aliases: 
 authors:
   - Jonathan Nye
-created: 2023-01-11
-date: 2022-01-26
+created: 2022-01-26
 description: Leaders come in different forms and have many developed traits. This post discusses some of the different leadership styles and a self reflection of which style represents me best.
-images:
+images: 
 isDraft: false
 modified: 2023-11-13
 tags:
