@@ -2,8 +2,7 @@
 aliases: 
 authors:
   - Jonathan Nye
-created: 2023-01-11
-date: 2022.09.15
+created: 2022-09-15
 description: I wanted an easy way to use a custom domain email address, without paying yearly subscriptions. This guide explains the steps required to do so.
 images: cloudflare-email-routing.png
 isDraft: false

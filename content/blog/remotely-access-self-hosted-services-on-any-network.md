@@ -2,8 +2,7 @@
 aliases: 
 authors:
   - Jonathan Nye
-created: 2023-01-11
-date: 2022-02-02
+created: 2022-02-02
 description: Cloudflare Access provides a reliable way to create a tunnel between your self-hosted service and Cloudflare. It is much easier to set up a self-hosted service with a domain, without worrying about port forwarding or dynamic DNS.
 images: 
 isDraft: false
