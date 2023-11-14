@@ -1,13 +1,15 @@
 ---
 aliases: 
-authors: [Jonathan Nye]
-created: 2023-01-11
-date: 2021.11.13
+authors:
+  - Jonathan Nye
+created: 2021-11-13
 description: The world needs to transition to a renewable energy future to limit climate change. Part one of the series investigates the reasons for why we need to update the distribution network to handle more renewables.
-images: []
+images: 
 isDraft: false
 modified: 2023-11-13
-tags: ['renewables', 'power-systems']
+tags:
+  - renewables
+  - power-systems
 title: Increasing the amount of renewables on the distribution grid - Part 1
 ---
 
