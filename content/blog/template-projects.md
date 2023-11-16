@@ -6,7 +6,7 @@ created: 2021-12-11
 description: Template repositories are one of my favourite ways to speed up and standardize your development workflow. They help both individual and team workflows.
 image: 
 isDraft: false
-modified: 2023-11-13
+modified: 2023-11-16
 tags:
   - development
   - teams
@@ -15,11 +15,11 @@ tags:
 title: How to use git repositories as a template
 ---
 
-Templates are a quick way to bootstrap a repository for a new project and then keep it up to date with your best practices.
+Repository templates are a quick way to bootstrap a repository for a new project and then keep it up to date with your best practices.
 
 A good template allows you to:
 
-- update all sub projects easily
+- update all subprojects easily
 - get to production quickly
 - have a consistent development environment
 
