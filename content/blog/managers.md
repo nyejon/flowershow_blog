@@ -3,7 +3,7 @@ aliases:
 authors:
   - Jonathan Nye
 blog: true
-created: 2023-01-11
+created: 2023-11-16
 description: Observing leadership styles and peoples reactions to them
 images: 
 isDraft: false
@@ -16,7 +16,7 @@ title: Managers
 ---
 
 Good managers are hard to come by.
-There are many things that make a great managPer, and very few have all of these qualities.
+There are many things that make a great manager, and very few have all of these qualities.
 See my post [[types-of-leaders|on types of leaders]] for more on the qualities one can learn to become a good leader.
 
 I'm in a technical role and like having a manager that knows at least something about the process that their team is working on.
