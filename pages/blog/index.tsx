@@ -41,6 +41,9 @@ export const getStaticProps: GetStaticProps = async (): Promise<
     });
 
     const blogsList = await Promise.all(blogsMetadataPromises);
+    blogsList.sort((a, b) => new Date(b.created) - new Date(a.created));
+
+    console.log(blogsList);
 
     return {
         props: {
