@@ -1,7 +1,7 @@
 ---
 aliases: 
 created: 2023-08-17
-modified: 2023-11-10
+modified: 2023-11-23
 tags:
   - blog
   - personal
@@ -9,6 +9,12 @@ title: About
 ---
 
 Hi, I'm Jonathan! This blog is new, and I will publish articles about my interests and various things I've been working on. From time to time, I might share some notes on a topic, tutorials, or thoughts that have been on my mind.
+
+## About the name "Uncommon sense"
+
+Back during my first year of university, I had a lecturer who taught us *Electrical Engineering 1* that we shall call "Mr Green". Whenever someone asked him a question that he deemed stupid, he would respond with "But that's just common sense!".
+
+I aim to write some things that are not just "common sense".
 
 ## Interests
 
