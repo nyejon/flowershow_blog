@@ -4,7 +4,7 @@ authors:
   - Jonathan Nye
 blog: true
 created: 2023-11-16
-description: Observing leadership styles and peoples reactions to them
+description: Some thoughts after observing management styles and peoples reactions to them.
 images: 
 isDraft: false
 modified: 2023-11-16
