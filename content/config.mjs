@@ -23,7 +23,8 @@ const userConfig = {
     showToc: true,
     showSidebar: false,
     showComments: true,
-    analytics: process.env.GOOGLE_ANALYTICS_TRACKING_ID,
+    // Add default analytics string or else the process env
+    analytics: process.env.GOOGLE_ANALYTICS_TRACKING_ID || "Analytics",
     nextSeo: {
         titleTemplate: "%s | Uncommon sense",
         description: "My simplified view of the world",
