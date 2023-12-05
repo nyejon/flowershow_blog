@@ -1,4 +1,4 @@
-const config = {
+const userConfig = {
     title: "Uncommon sense",
     description: "My simplified view of the world",
     author: "Jonathan Nye",
@@ -72,4 +72,4 @@ const config = {
     }
 };
 
-export default config;
+export default userConfig;
