@@ -4,14 +4,20 @@ authors:
   - Jonathan Nye
 created: 2021-11-09
 description: A review of the book Shantaram by Gregory David Roberts.
+disabled rules:
+  - file-name-heading
+  - yaml-title
 images:
   - "[[shantaram-book.jpg]]"
 isDraft: false
-modified: 2023-11-16
+modified: 2023-12105-16
 tags:
   - fiction
   - books
 title: Shantaram book review
+disabled rules:
+  - file-name-heading
+  - yaml-title
 ---
 
 ![[shantaram-book.jpg]]
