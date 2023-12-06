@@ -7,7 +7,7 @@ created: 2023-11-16
 description: Some thoughts after observing management styles and peoples reactions to them.
 images: 
 isDraft: false
-modified: 2023-11-16
+modified: 2023-12105-16
 tags:
   - blog
   - management
