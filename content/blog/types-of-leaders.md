@@ -6,7 +6,7 @@ created: 2022-01-26
 description: Leaders come in different forms and have many developed traits. This post discusses some of the different leadership styles and a self reflection of which style represents me best.
 images: 
 isDraft: false
-modified: 2023-11-13
+modified: 2023-12105-13
 tags:
   - leadership
 title: Types of leaders
