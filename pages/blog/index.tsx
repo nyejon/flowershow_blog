@@ -41,12 +41,8 @@ export const getStaticProps: GetStaticProps = async (): Promise<
     });
 
     const blogsList = await Promise.all(blogsMetadataPromises);
-
-    // Sort blogsList by the "created" property in descending order
     blogsList.sort((a, b) => {
-        const dateA = new Date(a.created).getTime();
-        const dateB = new Date(b.created).getTime();
-        return dateB - dateA;
+        return new Date(b.date).getTime() - new Date(a.date).getTime();
     });
 
     // console.log(blogsList);
