@@ -1,12 +1,12 @@
 ---
-aliases: 
+aliases:
 authors:
   - Jonathan Nye
 created: 2022-02-02
 description: Cloudflare Access provides a reliable way to create a tunnel between your self-hosted service and Cloudflare. It is much easier to set up a self-hosted service with a domain, without worrying about port forwarding or dynamic DNS.
-images: 
+images:
 isDraft: false
-modified: 2023-12105-16
+modified: 2023-12-16
 tags:
   - how-to
   - cloudflare
@@ -21,7 +21,7 @@ I had successfully set up port forwarding, dynamic DNS and had a domain for the 
 I use Cloudflare as my DNS, and use their pages service to host this site. After browsing through their numerous services, they offer, I stumbled across _Cloudflare Tunnel._
 
 > Cloudflare Tunnel
-> 
+>
 > Cloudflare Tunnel exposes applications running on your local web server on any network with an internet connection without manually adding DNS records or configuring a firewall or router.
 
 Bingo! Exactly what was needed.

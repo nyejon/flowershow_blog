@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 authors:
   - Jonathan Nye
 created: 2021-11-09
@@ -7,7 +7,7 @@ description: A review of the book Shantaram by Gregory David Roberts.
 images:
   - "[[shantaram-book.jpg]]"
 isDraft: false
-modified: 2023-12105-16
+modified: 2023-12-16
 tags:
   - fiction
   - books

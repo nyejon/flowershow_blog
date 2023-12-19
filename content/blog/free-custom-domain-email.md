@@ -1,12 +1,12 @@
 ---
-aliases: 
+aliases:
 authors:
   - Jonathan Nye
 created: 2022-09-15
 description: I wanted an easy way to use a custom domain email address, without paying yearly subscriptions. This guide explains the steps required to do so.
 images: cloudflare-email-routing.png
 isDraft: false
-modified: 2023-12105-16
+modified: 2023-12-16
 tags:
   - how-to
   - leadership
