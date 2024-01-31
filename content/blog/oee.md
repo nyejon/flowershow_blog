@@ -56,9 +56,12 @@ Graphically, we can visualize everything we have defined with the figure below:
 
 OEE is often represented as the product of availability, performance, and quality. 
 
-
-$$OEE = \frac{Good\;Units \times Target\;Cycle\;Time}{Planned\;Production\;Time} = Availability \times Performance \times Quality$$
-
+$$  
+\begin{align}  
+OEE = \frac{Good\;Units \times Target\;Cycle\;Time}{Planned\;Production\;Time} \\
+OEE = Availability \times Performance \times Quality 
+\end{align}  
+$$
 
 Frequently, people confuse the two methods of calculating OEE as two separate definitions. The value of OEE is always the same with both methods.
 Specifically, the breakdown is only used to allocate the reasons for an OEE reduction to a specific category so that you know what needs to be changed to improve OEE the most. If you get different values for OEE with the two calculation methods, you have made a mistake and are not considering some unknown losses. 
@@ -68,6 +71,7 @@ Availability, performance, and quality are defined as:
 $$Availability = \frac{Runtime}{Planned\;Production\;Time}$$
 
 $$Performance=\frac{Target\;Cycle\;Time \times (Good\;Units + Scrap)}{Runtime}$$
+
 $$Quality=\frac{Good\;Units}{Good\;Units + Scrap}$$
 
 Multiplying all of these together, results in the initial OEE formula defined above.
@@ -92,7 +96,9 @@ To start, we define our TEEP for our car. We can define the limit of TEEP of our
 
 For our road trip, we plan to drive 1000 km in a single day and assume a 100 kmh average speed limit (To keep things simple) so we could drive 2400km a day if we drove 100% of the time.
 
-Therefore, we can define our utilization or TEEP with ideal OEE as: $$Utlization = \frac{Planned\;usage}{All\;time} = \frac{1000\;km}{2400\;km}\approx0.42$$
+Therefore, we can define our utilization or TEEP with ideal OEE as: 
+
+$$Utlization = \frac{Planned\;usage}{All\;time} = \frac{1000\;km}{2400\;km}\approx0.42$$
 
 This means, that assuming our car works perfectly all the time on this trip, we will get a utilization of 0.42 for the day.
 
