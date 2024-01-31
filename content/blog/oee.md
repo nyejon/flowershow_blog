@@ -183,8 +183,9 @@ Lastly, we could improve our quality. Here we could have saved distance by plann
 
 ## Conclusion
 
-We have learnt how to use OEE using a practical example and now have an intuitive understanding of what it is trying to represent.
+We have learnt how to use OEE using a practical example and now have an intuitive understanding of how we can use it to improve processes.
 
-Go ahead and use these concepts to calculate OEE for your process, business or even your cooking process. This can be applied to many industries, and could help numerous businesses improve their efficiencies. 
+Go ahead and use these concepts to calculate OEE for your process, business, or even your cooking.
+The concept of OEE can be applied to many industries, and could help numerous businesses improve their efficiencies.
 
-Feel free to leave any comments, and I look forward to discussions on how you applied OEE to your business.
+Feel free to leave any comments, and I look forward to discussions on how you applied OEE to make your business more profitable.
