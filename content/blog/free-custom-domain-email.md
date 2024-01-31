@@ -1,12 +1,12 @@
 ---
-aliases:
+aliases: 
 authors:
   - Jonathan Nye
 created: 2022-09-15
 description: I wanted an easy way to use a custom domain email address, without paying yearly subscriptions. This guide explains the steps required to do so.
 images: cloudflare-email-routing.png
 isDraft: false
-modified: 2023-12-16
+modified: 2024-01-31
 tags:
   - how-to
   - leadership
@@ -16,7 +16,7 @@ title: Free custom domain email using Cloudflare
 
 For a long time, I've wanted an easy way to use custom domain email addresses, without paying yearly subscriptions.
 
-This guide explains how I managed to set this up, using Cloudflare. The only cost is a domain if you don't have one already.
+This guide explains how I managed to set this up, using Cloudflare. The only cost is a domain if you don't already have one.
 
 The goals:
 
