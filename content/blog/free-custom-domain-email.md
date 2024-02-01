@@ -4,7 +4,8 @@ authors:
   - Jonathan Nye
 created: 2022-09-15
 description: I wanted an easy way to use a custom domain email address, without paying yearly subscriptions. This guide explains the steps required to do so.
-images: cloudflare-email-routing.png
+images:
+  - "[[cloudflare-email-routing.png]]"
 isDraft: false
 modified: 2024-01-31
 tags:
@@ -22,7 +23,7 @@ The goals:
 
 - use existing email inbox with a custom domain,
 - send and receive email with your custom domain,
-- must be completely free
+- be completely free
 
 ## Things you need
 
