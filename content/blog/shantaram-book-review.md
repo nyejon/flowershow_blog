@@ -25,7 +25,7 @@ Lin ends up living a fascinating life and experiences the joys and hardships of 
 
 In the book, it is hard to distinguish where the border lies between fiction and reality.
 The descriptions within the book are incredibly detailed.
-The descriptions and character portrayals are so good, that one can mistake them as facts.
+The story gets introduced in such a way and the character portrayals are so good, that one can mistake them as facts.
 These detailed descriptions are most prevalent and appreciated in the first half of the book.
 As the book progresses, they increasingly feel dragged out.
 Towards the end, one wants to get to the point.
