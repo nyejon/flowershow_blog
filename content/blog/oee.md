@@ -50,7 +50,7 @@ Any reduction, from the ideal 100%, in OEE is caused for a particular reason. Th
 
 Graphically, we can visualize everything we have defined with the figure below:
 
-![[OEE.excalidraw]]
+![[OEE.svg]]
 
 ## Allocating losses
 
