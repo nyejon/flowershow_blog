@@ -28,7 +28,7 @@ const userConfig = {
     nextSeo: {
         titleTemplate: "%s | Uncommon sense",
         description: "My simplified view of the world",
-        canonical: "https://denyed.xyz",
+
         openGraph: {
           title: "Uncommon sense",
           images: [

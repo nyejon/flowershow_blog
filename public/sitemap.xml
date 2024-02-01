@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://denyed.xyz/blog/free-custom-domain-email</loc>
+    <loc>https://denyed.xyz/blog/managers</loc>
+  </url>
+
+  <url>
+    <loc>https://denyed.xyz/blog/health-and-fitness</loc>
+  </url>
+
+  <url>
+    <loc>https://denyed.xyz/about</loc>
   </url>
 
   <url>
@@ -9,7 +17,7 @@
   </url>
 
   <url>
-    <loc>https://denyed.xyz/blog/types-of-leaders</loc>
+    <loc>https://denyed.xyz/blog/free-custom-domain-email</loc>
   </url>
 
   <url>
@@ -19,28 +27,24 @@
   </url>
 
   <url>
+    <loc
+      >https://denyed.xyz/blog/increase-renewables/part-1-distribution-grid</loc
+    >
+  </url>
+
+  <url>
     <loc>https://denyed.xyz/blog/template-projects</loc>
   </url>
 
   <url>
-    <loc>https://denyed.xyz/blog/health-and-fitness</loc>
+    <loc>https://denyed.xyz/blog/types-of-leaders</loc>
   </url>
 
   <url>
-    <loc>https://denyed.xyz/blog/managers</loc>
-  </url>
-
-  <url>
-    <loc>https://denyed.xyz/about</loc>
+    <loc>https://denyed.xyz/blog/oee</loc>
   </url>
 
   <url>
     <loc>https://denyed.xyz//</loc>
-  </url>
-
-  <url>
-    <loc
-      >https://denyed.xyz/blog/increase-renewables/part-1-distribution-grid</loc
-    >
   </url>
 </urlset>
