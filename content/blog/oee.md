@@ -5,7 +5,8 @@ authors:
 blog: true
 created: 2024-01-31
 description: OEE is the most important KPI in manufacturing. Being able to understand and interpret this number is critical to improve your manufacturing process.
-images: 
+images:
+  - "[[oee.svg]]"
 isDraft: false
 modified: 2024-01-31
 tags:
@@ -58,8 +59,8 @@ OEE is often represented as the product of availability, performance, and qualit
 
 $$  
 \begin{align}  
-OEE = \frac{Good\;Units \times Target\;Cycle\;Time}{Planned\;Production\;Time} \\
-OEE = Availability \times Performance \times Quality 
+OEE & = \frac{Good\;Units \times Target\;Cycle\;Time}{Planned\;Production\;Time} \\
+    & = Availability \times Performance \times Quality 
 \end{align}  
 $$
 
@@ -98,7 +99,13 @@ For our road trip, we plan to drive 1000 km in a single day and assume a 100 km
 
 Therefore, we can define our utilization or TEEP with ideal OEE as: 
 
-$$Utlization = \frac{Planned\;usage}{All\;time} = \frac{1000\;km}{2400\;km}\approx0.42$$
+$$  
+\begin{align}  
+Utlization &= \frac{Planned\;usage}{All\;time} \\
+ &= \frac{1000\;km}{2400\;km}\\
+ & \approx 0.42
+\end{align}  
+$$
 
 This means, that assuming our car works perfectly all the time on this trip, we will get a utilization of 0.42 for the day.
 
@@ -108,7 +115,13 @@ Typically, a car will be used for less than 2 hours a day, and often driven slow
 
 If we want to calculate the OEE of our trip, we can define this as:
 
-$$OEE = \frac{Good\;km \times Target\;time\;per\;km}{Trip\;length} = \frac{1000 \times 0.6}{780}\approx 0.77$$
+$$  
+\begin{align}  
+OEE &= \frac{Good\;km \times Target\;time\;per\;km}{Trip\;length} \\
+   &= \frac{1000 \times 0.6}{780}\\
+   &\approx 0.77
+\end{align}  
+$$
 
 Now we want to figure out how we could have reached our destination sooner. We ended up taking an additional 3 hours to reach our destination, as if we could have driven at the speed limit without stopping the entire way.
 
@@ -127,7 +140,13 @@ Let's say we had to do an extra 50 km. There were a few reasons for this:
 
 We can therefore define the quality of our trip as:
 
-$$Quality = \frac{Good\;km}{Good\;km+Extra\;km} = \frac{1000}{1000+50}\approx 0.95$$
+$$  
+\begin{align}  
+Quality &= \frac{Good\;km}{Good\;km+Extra\;km} \\
+        &= \frac{1000}{1000+50} \\
+        &\approx 0.95
+\end{align}  
+$$
 
 ### Availability loss of our road trip
 
@@ -139,7 +158,13 @@ As this is a road trip, we spent some time enjoying the view. Should this be all
 
 Taking all of this into account, we can define the availability of the trip as:
 
-$$Availablity = \frac{Driving\;time}{Trip\;length}=\frac{660}{780} \approx 0.85$$
+$$  
+\begin{align}  
+Availablity &= \frac{Driving\;time}{Trip\;length}\\
+		    &=\frac{660}{780} \\
+            &\approx 0.85
+\end{align}  
+$$
 
 ### Performance loss of our trip
 
@@ -149,11 +174,24 @@ We ended up driving some kilometres where we couldn't drive at the speed limit d
 
 We will allocate all of these other losses as a loss of performance:
 
-$$Performance = \frac{Target\;time\;per\;km \times Total\;km}{Driving\;time}=\frac{0.6 \times 1050}{660}\approx0.95$$
+$$  
+\begin{align}  
+Performance &= \frac{Target\;time\;per\;km \times Total\;km}{Driving\;time}\\
+			&=\frac{0.6 \times 1050}{660}\\
+			&\approx0.95
+\end{align}  
+$$
 
 We can also calculate the performance using the known OEE, availability and quality of our trip.
 
-$$Performance=\frac{OEE}{Availability \times Quality}=\frac{0.77}{0.85\times0.95} \approx 0.95$$
+
+$$  
+\begin{align}  
+Performance &=\frac{OEE}{Availability \times Quality}\\
+			&=\frac{0.77}{0.85\times0.95} \\
+			&\approx 0.95
+\end{align}  
+$$
 
 ### How could we improve our trip?
 
@@ -169,7 +207,13 @@ Well, it turns out we didn't start our trip with a full charge, so we spent more
 
 This would bring our OEE up to:
 
-$$OEE = \frac{Good\;km \times Target\;time\;per\;km}{Trip\;length} = \frac{1000 \times 0.6}{730}\approx 0.82$$
+$$  
+\begin{align}  
+OEE &= \frac{Good\;km \times Target\;time\;per\;km}{Trip\;length} \\
+	&= \frac{1000 \times 0.6}{730}\\
+	&\approx 0.82
+\end{align}  
+$$
 
 A nice 5% improvement.
 
