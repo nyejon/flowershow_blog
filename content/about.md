@@ -1,12 +1,13 @@
 ---
 aliases: 
 created: 2023-08-17
-modified: 2023-11-23
+modified: 2024-04-03
 tags:
   - blog
   - personal
-title: About
+title: about
 ---
+# About
 
 Hi, I'm Jonathan! This blog is new, and I will publish articles about my interests and various things I've been working on. From time to time, I might share some notes on a topic, tutorials, or thoughts that have been on my mind.
 
@@ -20,13 +21,13 @@ I aim to write some things that are not just "common sense".
 
 The world is a complex place. I like to break things down into useful, actionable insights. Often things get overcomplicated when they don't need to be. It becomes hard to distil this deluge of information.
 
-One of the things I'm currently interested in are personal health & health span - with my favourite source of information being Peter Attia. I really enjoy the way him and his team think and approach the various topics they discuss in his Podcast.
+One of the things I'm currently interested in are personal health & health span - with my favourite source of information being [Peter Attia](https://peterattiamd.com/). I really enjoy the way him and his team think and approach the various topics they discuss in his Podcast.
 
 In the gym I like to get a full body workout, doing a variety of exercises and then usually follow up with some squats and deadlifts.
 
 ### Energy
 
-What are the most effective approaches to integrate renewable energy into the power grid?
+What are the most effective approaches to integrate renewable energy into the power grid? How can we balance supply and demand as renewable generation becomes more prevalent?
 
 ### Regenerative agriculture
 
